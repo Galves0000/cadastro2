@@ -1,1 +1,1 @@
-FLASK_APP=Project
+FLASK_APP=project
